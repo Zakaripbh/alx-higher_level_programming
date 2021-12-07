@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-square.py
-#Zakari Usman <zakariusman4real@gmail.com>
+# Zakari Usman <zakariusman4real@gmail.com>
 """Define a class Square."""
 
 
